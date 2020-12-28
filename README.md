@@ -1,4 +1,6 @@
 # Demo 2
 Some text 
 
-sdsdf
+## Local development 
+    1.Open index.htm in your browser 
+    
