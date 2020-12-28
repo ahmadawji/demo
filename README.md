@@ -1,6 +1,6 @@
 # Demo 2
-Some text 
+Some text
 
-## Local development 
-    1.Open index.htm
+## Local development
+1.Open index.htm in your google chrome browser
     
